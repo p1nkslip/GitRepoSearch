@@ -2,7 +2,7 @@
 
 ### Configure
 
-Update Github Server and API token variable in main.py
+Update Github Server and API token variables in main.py
 
 ```
 # Github variables
