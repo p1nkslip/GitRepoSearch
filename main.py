@@ -17,7 +17,7 @@ urllib3.disable_warnings()
 TIMESTR = time.strftime("%Y%m%d-%H%M%S")
 
 # Github variables
-GIT_URL = 'https://api.github.com'
+GIT_SERVER = 'https://api.github.com'
 GIT_TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 # HTTP Headers
