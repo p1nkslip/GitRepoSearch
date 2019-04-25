@@ -1,6 +1,16 @@
 # GitRepoSearch
 
-## Run
+### Configure
+
+Update Github Server and API token variable in main.py
+
+```
+# Github variables
+GIT_SERVER = 'https://api.github.com'
+GIT_TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+```
+
+### Run
 
 $ `python3 main.py`
 
